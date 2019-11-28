@@ -7,5 +7,5 @@
  */
 const access = require('./harmonicBl');
 var input = require("readline-sync");
-number = input.question("Enter the number");
+number = input.question("Enter the harmonic number");
 access.harmonic();
