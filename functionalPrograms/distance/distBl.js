@@ -8,6 +8,6 @@ exports.distance = (x, y) => {
     let distance = Math.sqrt(x * x + y * y);
     console.log(distance);
   } catch (error) {
-    console.log("give proper number");
+    console.log("give the proper number");
   }
 };
