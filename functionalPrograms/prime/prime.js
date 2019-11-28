@@ -7,5 +7,5 @@
  */
 const access = require('./primeBl');
 var input = require('readline-sync');
-var number = input.question('enter the primefactor number');
+var number = input.question('enter the prime factorial numbers');
 access.primeFactor(number);
