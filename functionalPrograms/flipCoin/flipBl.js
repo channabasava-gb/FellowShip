@@ -14,9 +14,9 @@ exports.flipCoin = (toss) => {
         }
       }
       let headPercentage = (head / toss) * 100;
-      console.log('print the total head percentage is:'+headPercentage);
+      console.log('print the total head perc is:'+headPercentage);
       let tailPercentage = (tail / toss) *100;
-      console.log('print the total tail percentage is:'+tailPercentage);
+      console.log('print the total tail perce is:'+tailPercentage);
     } catch (e) {
       console.log(e);
     }
