@@ -12,7 +12,7 @@ exports.banking = (amount, limit) => {
         do {
             let choice = read.question("Enter the option 1-Deposit, 2-Withdraw\n");
             if (choice == 1) {
-                let cash = read.question("Enter how much you want deposited");
+                let cash = read.question("Enter the amount how much you want deposited");
                 if (cash <= 0) {
                     console.log("please enter the amount more than 0");
 
