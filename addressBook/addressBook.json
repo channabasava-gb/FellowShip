@@ -1,0 +1,51 @@
+[
+    {
+        "firstname": "manoj",
+        "lastname": "kumar",
+        "houseno": "111",
+        "city": "bommanahalli",
+        "district": "raichur"
+    },
+    {
+        "firstname": "ramesh",
+        "lastname": "guttedhar",
+        "houseno": "222",
+        "city": "devadurga",
+        "district": "raichur"
+    },
+    {
+        "firstname": "ewew",
+        "lastname": "ewwee",
+        "houseno": "wee",
+        "city": "wewewe",
+        "district": "wew"
+    },
+    {
+        "firstname": "dsds",
+        "lastname": "sdsdd",
+        "houseno": "sdsd",
+        "city": "sdsd",
+        "district": "sds"
+    },
+    {
+        "firstname": "pppp",
+        "lastname": "ddd",
+        "houseno": "ddd",
+        "city": "dd",
+        "district": "dd"
+    },
+    {
+        "firstname": "aaa",
+        "lastname": "sss",
+        "houseno": "111",
+        "city": "eee",
+        "district": "rrr"
+    },
+    {
+        "firstname": "asasa",
+        "lastname": "dfdfv",
+        "houseno": "fedf",
+        "city": "dfdf",
+        "district": "dfd"
+    }
+]
