@@ -1,0 +1,24 @@
+{
+    "Stock": [
+        {
+            "name": "Dell",
+            "numberOfShares": "50",
+            "price": "25000"
+        },
+        {
+            "name": "lenovo",
+            "numberOfShares": "25",
+            "price": "30000"
+        },
+        {
+            "name": "Apple",
+            "numberOfShares": "75",
+            "price": "40000"
+        },
+        {
+            "name": "tablet",
+            "numberOfShares": 100,
+            "price": 50000
+        }
+    ]
+}
