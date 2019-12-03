@@ -16,10 +16,10 @@
         "state": "karnataka"
     },
     {
-        "First_Name": "pratham",
-        "Last_Name": "kumar",
-        "Ph_no": "333",
-        "State": "manvi",
-        "City": "karnatak"
+        "firstName": "pratham",
+        "lastName": "kumar",
+        "houseNo": "333",
+        "distric": "manvi",
+        "state": "karnatak"
     }
 ]
