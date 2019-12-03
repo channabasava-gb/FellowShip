@@ -1,0 +1,23 @@
+{
+    "rice": [
+        {
+            "name": "basmathi",
+            "weight": 2,
+            "price": 60
+        }
+    ],
+    "wheat": [
+        {
+            "name": "Emmer",
+            "weight": 3,
+            "price": 100
+        }
+    ],
+    "pulses": [
+        {
+            "name": "Bean",
+            "wight": 1,
+            "price": 15
+        }
+    ]
+}
