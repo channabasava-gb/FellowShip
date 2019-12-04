@@ -1,6 +1,6 @@
 /****************************************************************************************
 * @Execution : default node : cmd> factory.js
-* @description :Prints the factory pattern design
+* @description :Prints the prototypeDesign pattern pattern design
 * @overview : designPatterns
 * @author : channabasava<channabasavabml@gmail.com>
 * @version : 6.9.0
