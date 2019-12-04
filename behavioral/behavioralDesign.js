@@ -1,3 +1,10 @@
+/****************************************************************************************
+* @Execution : default node : cmd> factory.js
+* @description :Prints the behavioralDesign pattern program
+* @author : channabasava<channabasavabml@gmail.com>
+* @version : 10.16.3
+* @since : 13 Nov 2019
+******************************************************************************************/
 class person {
     constructor(Employee, address) {
         this.Employee = Employee;
