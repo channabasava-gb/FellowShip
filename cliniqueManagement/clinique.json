@@ -1,0 +1,71 @@
+{
+    "Doctors": [
+    {
+    "name": "Dr.ManojKumar",
+    "ID": 111,
+    "Specialization": "Cardiologist",
+    "Availability": "AM"
+    },
+    {
+    "name": "Dr.RohiniShindhuri",
+    "ID": 222,
+    "Specialization": "Psychiatrist",
+    "Availability": "Both"
+    },
+    {
+    "name": "Dr.Prathm",
+    "ID": 333,
+    "Specialization": "Allergist",
+    "Availability": "AM"
+    },
+    {
+    "name": "Dr.Humshika",
+    "ID": 444,
+    "Specialization": "Surgeon",
+    "Availability": "PM"
+    },
+    {
+    "name": "Dr.Laxmi",
+    "ID": 555,
+    "Specialization": "Pediatrician",
+    "Availability": "Both"
+    }
+    ],
+    "Patients": [
+    {
+    "name": "RamKumar",
+    "ID": 111,
+    "mobNo": 8974568542,
+    "Age": 15,
+    "Appointed_To": "Dr.ManojKumar"
+    },
+    {
+    "name": "Ramesh",
+    "ID": 222,
+    "mobNo": 9785456932,
+    "Age": 20,
+    "Appointed_To": "RohiniShindhuri"
+    },
+    {
+    "name": "madhan",
+    "ID": 333,
+    "mobNo": 8974568569,
+    "Age": 18,
+    "Appointed_To": "Dr.Prathm"
+    },
+    {
+    "name": "Basva",
+    "ID": 444,
+    "mobNo": 7898589645,
+    "Age": 24,
+    "Appointed_To": "Dr.Humshika"
+    },
+    {
+    "name": "Sachin",
+    "ID": 555,
+    "mobNo": 9982987890,
+    "Age": 15,
+    "Appointed_To": "Dr.Laxmi"
+    }
+    ]
+    }
